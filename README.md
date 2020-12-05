@@ -12,13 +12,7 @@
 </br></br>
 
 [![Sujeewa's github stats](https://github-readme-stats.vercel.app/api?username=sujeewakabeysinghe&include_all_commits=true&show_icons=true&theme=dark&count_private=true)](https://github.com/sujeewakabeysinghe)
-
-</br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewakabeysinghe&theme=dark)](https://github.com/sujeewakabeysinghe)
-
-</br>
-
 <img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" />
 
 [LinkedIn]: https://linkedin.com/in/sujeewakabeysinghe
