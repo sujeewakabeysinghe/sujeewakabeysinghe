@@ -1,4 +1,4 @@
-<h1 align="left" style="color:red;">I'm Sujeewa K. Abeysinghe</h1>
+<h1 align="left" style="color:blue;">I'm Sujeewa K. Abeysinghe</h1>
 <h2>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" /></p>
 <p align="left">
