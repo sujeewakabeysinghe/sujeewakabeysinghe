@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" />
-<img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/main/wave.gif" width="30px">
+<img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px">
 
 
 <h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b></h1>
