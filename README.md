@@ -17,3 +17,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewakabeysinghe&layout=compact" alt="sujeewakabeysinghe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeewakabeysinghe&show_icons=true" alt="sujeewakabeysinghe" /></p>
