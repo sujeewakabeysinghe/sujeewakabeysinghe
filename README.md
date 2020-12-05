@@ -10,6 +10,7 @@
 [<img align="left" alt="sujeewakabeysinghe | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg" />][Instagram]
 </br>
 <hr>
+
 [![Sujeewa's github stats](https://github-readme-stats.vercel.app/api?username=sujeewakabeysinghe&include_all_commits=true&show_icons=true&theme=dark&count_private=true)](https://github.com/sujeewakabeysinghe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewakabeysinghe&theme=dark)](https://github.com/sujeewakabeysinghe)
