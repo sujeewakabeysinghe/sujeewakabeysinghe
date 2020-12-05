@@ -1,6 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" />
 <p>
 <h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b></h1>
-<img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" />
 <h2>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer </h2>
 </p>
 
