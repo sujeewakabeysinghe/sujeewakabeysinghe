@@ -1,6 +1,6 @@
 <h3><img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"> Hi there, <i>I'm</i></h3>
 <h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b></h1><h4><i>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer</i></h4>
-
+<hr>
 [![](https://github-readme-stackoverflow.vercel.app/?userID=9439677)](https://stackoverflow.com/users/9439677/sujeewa-k-abeysinghe)
 
 [<img align="left" alt="sujeewakabeysinghe | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
