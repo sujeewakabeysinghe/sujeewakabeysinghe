@@ -4,6 +4,23 @@
 <h2>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer </h2>
 </p>
 
+### 🔗 Connect with me:
+
+[<img align="left" alt="sujeewakabeysinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sujeewakabeysinghe | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
+[<img align="left" alt="sujeewakabeysinghe | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][Behance]
+[<img align="left" alt="sujeewakabeysinghe | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][Dribbble]
+[<img align="left" alt="sujeewakabeysinghe | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="sujeewakabeysinghe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Instagram]
+
+</br>
+</br>
+
+[![Sujeewa's github stats](https://github-readme-stats.vercel.app/api?username=sujeewakabeysinghe&include_all_commits=true&show_icons=true&theme=dark&count_private=true)](https://github.com/sujeewakabeysinghe)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewakabeysinghe&layout=compact&theme=dark)](https://github.com/sujeewakabeysinghe)
+</br>
+
 <p align="left">
 <h3 align="left">FIND ME ON</h3>
 <a href="https://linkedin.com/in/sujeewakabeysinghe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@sujeewakabeysinghe" height="30" width="50" /></a>
