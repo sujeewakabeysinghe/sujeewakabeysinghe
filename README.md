@@ -9,11 +9,11 @@
 <a href="https://www.behance.net/sujeewakabeysinghe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="@sujeewakabeysinghe" height="30" width="40" /></a>
 </p>
 <div class="row">
-  <div style="float: left; width: 50%; padding: 10px; height: 300px;">
+  <div style="float: left; width: 50%; padding: 10px; height: 50px;">
     <h2>Column 1</h2>
     <p>Some text..</p>
   </div>
-  <div style="float: left; width: 50%; padding: 10px; height: 300px;>
+  <div style="float: left; width: 50%; padding: 10px; height: 50px;>
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
