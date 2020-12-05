@@ -1,7 +1,8 @@
-<h4>Hi there! <i>I'm</i><img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"></h4>
-<h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b></h1>
+<h4>Hi there!<img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"></h4>
+<i>I'm</i>
+<h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b>
 <h5><i>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer</i></h5>
-
+</h1>
 [![](https://github-readme-stackoverflow.vercel.app/?userID=9439677)](https://stackoverflow.com/users/9439677/sujeewa-k-abeysinghe)
 
 [<img align="left" alt="sujeewakabeysinghe | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
