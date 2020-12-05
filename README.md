@@ -1,5 +1,4 @@
-<h4>Hi there!<img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"></h4>
-<i>I'm</i>
+<h4><img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px">Hi there, <i>I'm</i></h4>
 <h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b>
 <h5><i>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer</i></h5>
 </h1>
