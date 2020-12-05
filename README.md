@@ -1,5 +1,5 @@
 <h1><img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"> Hi there,</h1>
-<h3><i>I'm an Undergraduate, UI/UX Designer and Web Designer</i></h3>
+<h4><i>I'm an Undergraduate, UI/UX Designer and Web Designer</i></h4>
 
 <hr>
 <h3><b>FIND ME ON</b></h3>
