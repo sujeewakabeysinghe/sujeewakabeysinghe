@@ -1,4 +1,4 @@
-<img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"><h4>Hi there, I'm</h4>
+#Hi there! <img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"><h4>Hi there, I'm</h4>
 <h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b></h1>
 <h3><i>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer</i></h3>
 
