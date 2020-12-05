@@ -7,7 +7,8 @@
 
 <h3>FIND ME ON :</h3>
 
-[![](https://github-readme-stackoverflow.vercel.app/?userID=9439677)](https://stackoverflow.com/users/9439677/sujeewa-k-abeysinghe)]
+[![](https://github-readme-stackoverflow.vercel.app/?userID=9439677)](https://stackoverflow.com/users/9439677/sujeewa-k-abeysinghe)
+
 [<img align="left" alt="sujeewakabeysinghe | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="sujeewakabeysinghe | StackOverFlow" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
 [<img align="left" alt="sujeewakabeysinghe | Behance" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/behance.svg" />][Behance]
@@ -18,7 +19,6 @@
 [![Sujeewa's github stats](https://github-readme-stats.vercel.app/api?username=sujeewakabeysinghe&include_all_commits=true&show_icons=true&theme=dark&count_private=true)](https://github.com/sujeewakabeysinghe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewakabeysinghe&theme=dark)](https://github.com/sujeewakabeysinghe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewakabeysinghe&langs_count=2)](https://github.com/sujeewakabeysinghe/github-readme-stats)
 
 
 [LinkedIn]: https://linkedin.com/in/sujeewakabeysinghe
