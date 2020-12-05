@@ -13,7 +13,7 @@
     <h2>Column 1</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div style="float: left; width: 50%; padding: 10px; height: 300px;>
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
