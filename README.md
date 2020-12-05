@@ -1,9 +1,9 @@
 <p>
-<h1 align="left" color="red">Sujeewa K. Abeysinghe</h1>
+<h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b></h1>
+<img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" />
 <h2>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer </h2>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" /></p>
 <p align="left">
 <h3 align="left">FIND ME ON</h3>
 <a href="https://linkedin.com/in/sujeewakabeysinghe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@sujeewakabeysinghe" height="30" width="50" /></a>
