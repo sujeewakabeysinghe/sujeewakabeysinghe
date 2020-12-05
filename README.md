@@ -8,10 +8,13 @@
 [<img align="left" alt="sujeewakabeysinghe | Dribbble" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/dribbble.svg" />][Dribbble]
 [<img align="left" alt="sujeewakabeysinghe | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="sujeewakabeysinghe | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg" />][Instagram]
+
 </br>
 [![Sujeewa's github stats](https://github-readme-stats.vercel.app/api?username=sujeewakabeysinghe&include_all_commits=true&show_icons=true&theme=dark&count_private=true)](https://github.com/sujeewakabeysinghe)
+
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewakabeysinghe&theme=dark)](https://github.com/sujeewakabeysinghe)
+
 </br>
 <img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" />
 
