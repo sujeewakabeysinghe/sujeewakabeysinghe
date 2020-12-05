@@ -1,4 +1,4 @@
-<h2><img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"> Hi there, <i>I'm an Undergraduate, UI/UX Designer, Web Designer and Graphic Designer</i></h2>
+<h2><img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"> Hi there,</br><i>I'm an Undergraduate, UI/UX Designer, Web Designer and Graphic Designer</i></h2>
 
 <h2>FIND ME ON : </h2>
 
