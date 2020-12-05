@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=sujeewakabeysinghe" alt="sujeewakabeysinghe" />
-![](https://komarev.com/ghpvc/?username=sujeewakabeysinghe)
+
 <p>
 <h1 align="left" color="red"><b>Sujeewa K. Abeysinghe</b></h1>
 <h2>Undergraduate | UI/UX Designer | Web Designer | Graphic Designer </h2>
@@ -7,12 +7,12 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="sujeewakabeysinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sujeewakabeysinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="sujeewakabeysinghe | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
-[<img align="left" alt="sujeewakabeysinghe | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][Behance]
-[<img align="left" alt="sujeewakabeysinghe | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][Dribbble]
+[<img align="left" alt="sujeewakabeysinghe | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/behance.svg" />][Behance]
+[<img align="left" alt="sujeewakabeysinghe | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/dribbble.svg" />][Dribbble]
 [<img align="left" alt="sujeewakabeysinghe | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="sujeewakabeysinghe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Instagram]
+[<img align="left" alt="sujeewakabeysinghe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg" />][Instagram]
 
 </br>
 </br>
@@ -36,3 +36,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeewakabeysinghe&layout=compact" alt="sujeewakabeysinghe" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeewakabeysinghe&show_icons=true" alt="sujeewakabeysinghe" /></p>
+
+[LinkedIn]: https://linkedin.com/in/sujeewakabeysinghe
+[StackOverFlow]: https://stackoverflow.com/users/9439677/sujeewa-k-abeysinghe
+[Behance]: https://www.behance.net/sujeewakabeysinghe
+[Dribbble]: https://dribbble.com/sujeewakabeysinghe
+[Facebook]: https://www.facebook.com/sujeewakabeysinghe
+[Instagram]: https://www.instagram.com/sujeewakabeysinghe
