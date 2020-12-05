@@ -1,5 +1,5 @@
 <h2><img src="https://github.com/sujeewakabeysinghe/sujeewakabeysinghe/blob/main/wave.gif" width="30px"> Hi there,</br><i>I'm an Undergraduate, UI/UX Designer, Web Designer and Graphic Designer</i></h2>
-<h4>FIND ME ON : </h4>
+<h3>FIND ME ON</h3>
 
 [![](https://github-readme-stackoverflow.vercel.app/?userID=9439677)](https://stackoverflow.com/users/9439677/sujeewa-k-abeysinghe)
 
